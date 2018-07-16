@@ -5,3 +5,5 @@ vscode-setup.md
 /Natours/after-S05
 /Natours/final-after-S06
 
+node_modules/*
+.idea/
