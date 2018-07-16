@@ -1,0 +1,14 @@
+@mixin clearfix { //to clear floats
+    &::after { //will be appended after element
+        content: ""; //must always be defined; leave blank so nothing is displayed in window
+        display: table;
+        clear: both; //to clear L and R floats
+    }
+}
+
+@mixin absoluteCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
