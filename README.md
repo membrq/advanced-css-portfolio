@@ -1,7 +1,5 @@
-# Advanced CSS Portfolio
+# Natours
 
-This repo is the first of 3 UX projects to showcase advanced CSS techniques.
+A responsive SPA for an adventure travel company. UX project built with CSS and Sass. 
 
-### Natours
-
-SPA for an adventure travel company. Built with Sass, NodeJS.
+Click [here](https://membrq.github.io/advanced-css-portfolio/index.html) to view the live application.
